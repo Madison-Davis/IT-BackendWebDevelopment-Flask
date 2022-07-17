@@ -1,6 +1,6 @@
 # IT-WebAppDevelopment-WeatherVisual
-
 Web Application built using Flask (Python), HTML, and CSS.
+Accessed through a Virtual Server on http://127.0.0.1:8080/
 Allows user to enter in any city and receive a future forecast related to:
 - Temperature (Average/High/Low)
 - Feels Like
